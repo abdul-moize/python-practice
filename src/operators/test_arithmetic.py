@@ -10,7 +10,7 @@ def test_arithmetic_operators():
     """Arithmetic operators"""
 
     # Addition.
-    assert 5 + 3 == 8
+    assert 5 + 3+1 == 9
 
     # Subtraction.
     assert 5 - 3 == 2
